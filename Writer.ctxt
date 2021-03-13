@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Writer
+comment1.params=fileName\ Text\ Dictionary
+comment1.target=Writer(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ writeOut()
+numComments=3

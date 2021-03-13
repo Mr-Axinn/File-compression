@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Compress
+comment1.params=
+comment1.target=Compress()
+comment2.params=uncompressedString\ charDictionary\ charList
+comment2.target=void\ compressChars(java.lang.String,\ java.lang.String,\ java.util.ArrayList)
+comment3.params=uncompressedString\ wordDictionary\ wordList
+comment3.target=void\ compressWords(java.lang.String,\ java.lang.String,\ java.util.ArrayList)
+comment4.params=uncompressedString\ phraseDictionary\ phraseList
+comment4.target=void\ compressPhrases(java.lang.String,\ java.lang.String,\ java.util.ArrayList)
+numComments=5

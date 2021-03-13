@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=createDictionaries
+comment1.params=
+comment1.target=createDictionaries()
+comment2.params=str
+comment2.target=void\ createCharDictionary(java.lang.String)
+comment3.params=str
+comment3.target=void\ createWordDictionary(java.lang.String)
+comment4.params=line
+comment4.target=void\ createPhraseDictionary(java.lang.String)
+comment5.params=
+comment5.target=void\ displayFrequenciesLetters()
+comment6.params=
+comment6.target=void\ displayFrequenciesWords()
+comment7.params=
+comment7.target=void\ displayFrequenciesPhrases()
+numComments=8

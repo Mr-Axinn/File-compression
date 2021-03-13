@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Tree
+comment1.params=List
+comment1.target=Tree(java.util.ArrayList)
+comment2.params=
+comment2.target=void\ createTree()
+comment3.params=
+comment3.target=void\ setCodes()
+comment4.params=root
+comment4.target=Frequency\ setCodesRecursive(Frequency)
+comment5.params=
+comment5.target=void\ printTree()
+comment6.params=root
+comment6.target=Frequency\ printTreeRecursive(Frequency)
+comment7.params=
+comment7.target=java.util.ArrayList\ getList()
+numComments=8

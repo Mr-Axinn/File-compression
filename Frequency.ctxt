@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Frequency
+comment1.params=charString\ frq
+comment1.target=Frequency(java.lang.String,\ int)
+numComments=2

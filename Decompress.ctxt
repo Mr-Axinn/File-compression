@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Decompress
+comment1.params=CompressedStr\ X\ FileName
+comment1.target=Decompress(java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ translate()
+comment3.params=
+comment3.target=void\ createDictionary()
+numComments=4
